@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="hint">Escribe el mensaje</string>
+    <string name="send">Envia el mensaje</string>
+    <string name="uno">Chat propietario de la mascota</string>
+    <string name="uno1">Mensajes:</string>
+    <string name="dos">Chat Responsable del cuidado de la mascota</string>
+
+</resources>
